@@ -1,0 +1,59 @@
+.page-header {
+
+  .avatar {
+    width: 150px;
+    margin: 30px auto;
+    display: block;
+  }
+}
+
+.icon-link {
+  width: 30px;
+}
+
+.education {
+  .school {
+    font-weight: bold;
+  }
+
+  .school-details {
+    padding-left: 15px;
+  }
+}
+
+ul.details > li {
+  margin-left: 15px;
+}
+
+.experience {
+
+  .workplace {
+    font-weight: bold;
+  }
+
+  .experience-details {
+    padding-left: 15px;
+  }
+}
+
+.skills {
+
+  .items {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .items > .item {
+    flex: 1 0 20%;
+    margin: 5px;
+  }
+}
+
+footer {
+  .icon-link {
+    width: 45px;
+    margin: 10px 15px 25px 15px;
+  }
+}
+
+ 

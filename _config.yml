@@ -1,0 +1,60 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Raymond's Website
+email: iamraymondtieu@gmail.com
+
+# Build settings
+markdown: kramdown
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://raymondtieu.github.io" # the base hostname & protocol for your site
+
+# Personal information
+name: Raymond Tieu
+github:  raymondtieu
+linkedin: raymond-tieu-352929b0
+resume: to be added
+current_title: Computer Science Student
+
+description: > 
+    Brief description of myself will be coming soon!
+
+experience: 
+ -  workplace: Defense Research and Development Canada
+    title: Mobile Application Developer
+    date: Sept 2015 - Sept 2016
+    details:
+     - Developed cross-platform mobile applications using research driven content and the Road to Mental Readiness course materials taught to Canadian soldiers
+     - Developed supplementary learning and training tools that take advantage of web and mobile platforms
+     - Designed applications to implement course materials while adhering to mobile design paradigms
+
+education: 
+ -  name: University of Toronto
+    degree: Honours Bachelor of Science
+    date: Sept 2012 - Apr 2017
+    additional: Computer Science Specialist Program
+
+skills: 
+ - Java
+ - Python
+ - C
+ - JavaScript
+ - HTML5
+ - CSS
+ - AngularJS
+ - Ember.js
+ - Node.js
+ - Express.js
+ - Ionic
+ - SQLite
+
+projects: >
+    Coming soon!
+
+
