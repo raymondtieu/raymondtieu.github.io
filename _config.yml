@@ -7,7 +7,6 @@
 
 # Site settings
 title: Raymond Tieu
-email: iamraymondtieu@gmail.com
 
 # Build settings
 markdown: kramdown
@@ -17,9 +16,10 @@ url: "http://raymondtieu.github.io" # the base hostname & protocol for your site
 
 # Personal information
 name: Raymond Tieu
+email: iamraymondtieu@gmail.com
 github:  raymondtieu
 linkedin: raymond-tieu-352929b0
-resume: to be added
+resume: 0B4wHbd8wvzyvcEUyVnNIWUZJUnM
 current_title: Computer Science Student
 
 description: > 
