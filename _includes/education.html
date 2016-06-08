@@ -20,7 +20,9 @@
               </div>
 
               <div class="col s12 m10">
-                <div class="chip">{{ school.additional }}</div>
+                {% for e in school.additional %}
+                  <div class="chip">{{ e }}</div>
+                {% endfor %}
               </div>
             </div>
 

@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Raymond's Website
+title: Raymond Tieu
 email: iamraymondtieu@gmail.com
 
 # Build settings
@@ -23,22 +23,25 @@ resume: to be added
 current_title: Computer Science Student
 
 description: > 
-    Brief description of myself will be coming soon!
+    I am currently a computer science student studying at the University of Toronto St. George with a strong interest in web and mobile application development and UI/UX design.
 
 experience: 
  -  workplace: Defense Research and Development Canada
     title: Mobile Application Developer
     date: Sept 2015 - Sept 2016
     details:
-     - Developed cross-platform mobile applications using research driven content and the Road to Mental Readiness course materials taught to Canadian soldiers
-     - Developed supplementary learning and training tools that take advantage of web and mobile platforms
-     - Designed applications to implement course materials while adhering to mobile design paradigms
+     - Developed hybrid applications using research driven content alongside the Road to Mental Readiness course materials (taught to Canadian soldiers)
+     - Developed supplementary learning and training tools that take advantage of the tools web and mobile platforms provide
+     - Designed applications to adapt course materials to current web and mobile design paradigms
+     - Developed applications primarily using Ember.js and Apache Cordova
 
 education: 
  -  name: University of Toronto
     degree: Honours Bachelor of Science
     date: Sept 2012 - Apr 2017
-    additional: Computer Science Specialist Program
+    additional: 
+     - Computer Science Specialist Program
+     - 4th year
 
 skills: 
  - Java
@@ -53,8 +56,9 @@ skills:
  - Express.js
  - Ionic
  - SQLite
+ - Android Development
+ - Web Development
+ - Adobe Photoshop
 
 projects: >
     Coming soon!
-
-
