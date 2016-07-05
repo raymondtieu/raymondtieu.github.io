@@ -61,6 +61,13 @@ skills:
  - Photoshop
 
 projects:
+ - name: Eye Dropper Tool
+   date: June 2016
+   details:
+    - Cross platform application built using Electron and Node.js used to speed up design work
+    - Allows users to retrieve the hex colour code of anywhere on their screen
+    - Users can activate the picker using a keyboard shortcut and select the pixel they want the colour for
+    - The hex colour code is then copied to their clipboard
  - name: Show Tracker
    date: Mar 2016 - Present
    details:
