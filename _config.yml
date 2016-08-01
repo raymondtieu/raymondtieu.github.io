@@ -61,6 +61,13 @@ skills:
  - Photoshop
 
 projects:
+ - name: Pokemon GO Map
+   date: July 2016
+   details:
+    - Cross platform application built using Ionic v2 to scan for pokemon in the Pokemon GO application around a given location
+    - Simply a front end for my very own Flask server hosted on Heroku that runs a multithreaded scanner
+    - Gives exact location of the pokemon as well as the despawn time, similar to other scanner applications, but on mobile
+    - Users can customize settings for the scanner, such as location, search range, custom filters
  - name: Eye Dropper Tool
    date: June 2016
    details:
