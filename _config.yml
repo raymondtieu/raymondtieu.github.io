@@ -6,100 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Raymond Tieu
+title: Raymond
 
 # Build settings
 markdown: kramdown
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://raymondtieu.github.io" # the base hostname & protocol for your site
-
-# Personal information
-name: Raymond Tieu
-location: "Toronto, Ontario Canada"
-email: iamraymondtieu@gmail.com
-github:  raymondtieu
-linkedin: raymond-tieu-352929b0
-resume: 0B4wHbd8wvzyvcEUyVnNIWUZJUnM
-current_title: Computer Science Student
-
-description: > 
-    I am currently a computer science student studying at the University of Toronto St. George with a strong interest in web and mobile application development and UI/UX design.
-
-experience: 
- -  workplace: Defense Research and Development Canada
-    title: Mobile Application Developer
-    date: Sept 2015 - Sept 2016
-    details:
-     - Developed hybrid applications using research driven content alongside the Road to Mental Readiness course materials (taught to Canadian soldiers)
-     - Developed supplementary learning and training tools that take advantage of the tools web and mobile platforms provide
-     - Designed applications to adapt course materials to current web and mobile design paradigms
-     - Developed applications primarily using Ember.js and Apache Cordova
-
-education: 
- -  name: University of Toronto
-    degree: Honours Bachelor of Science
-    date: Sept 2012 - Apr 2017
-    additional: 
-     - Computer Science Specialist
-     - 4th year
-
-skills: 
- - Java
- - Python
- - C
- - JavaScript
- - HTML5
- - CSS
- - AngularJS
- - Ember.js
- - Node.js
- - Express.js
- - Ionic
- - SQLite
- - Android
- - Photoshop
-
-projects:
- - name: Pokemon GO Map
-   date: July 2016
-   details:
-    - Cross platform application built using Ionic v2 to scan for pokemon in the Pokemon GO application around a given location
-    - Simply a front end for my very own Flask server hosted on Heroku that runs a multithreaded scanner
-    - Gives exact location of the pokemon as well as the despawn time, similar to other scanner applications, but on mobile
-    - Users can customize settings for the scanner, such as location, search range, custom filters
- - name: Eye Dropper Tool
-   date: June 2016
-   details:
-    - Cross platform application built using Electron and Node.js used to speed up design work
-    - Allows users to retrieve the hex colour code of anywhere on their screen
-    - Users can activate the picker using a keyboard shortcut and select the pixel they want the colour for
-    - The hex colour code is then copied to their clipboard
- - name: Show Tracker
-   date: Mar 2016 - Present
-   details:
-    - Cross platform mobile application to keep track of your ongoing television shows and new episodes
-    - Uses APIs provided by <a href="http://www.tvmaze.com/" target="_blank">TVMaze</a> and <a href="https://www.themoviedb.org/" target="_blank">themoviedb</a> to display television show episode information and details
-    - Developed using Ionic v2 and Angular 2
- - name: Minesweeper
-   date: April 2015
-   details:
-    - Minesweeper on Android using material design
-    - Uses commonly used Android design patterns and tools
- - name: Community Fund
-   date: Feb 2015 - March 2015
-   details:
-    - Crowdfunding website designed and developed for a web development course
-    - "Uses Django and a PostgreSQL database to keep track of users, their network, ideas, and funding"
- - name: Visualizing Network Traffic
-   date: Feb 2015 - March 2015
-   details:
-    - Web Application to visualize the traceroute command designed and developed for a software engineering course
-    - The traceroute command output is parsed and processed using Express.js 
-    - "Using AngularJS and the Google Maps API, requests the users make are sent to the server and locations that were parsed in the back-end are plotted on the map and the user can visualize the path their request took"
- - name: Messaging Application
-   date: Oct 2014 - Nov 2014
-   details:
-    - An instant messaging Java applet designed and developed for a software engineering course
-    - "Users are able to register, log in, and join chat rooms and send messages to each other"
-    - "This applet was to make use of design patterns, such as MVC, iterator, observer, data access objects and factories"
